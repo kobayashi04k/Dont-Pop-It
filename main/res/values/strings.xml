@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Don\'t Pop It</string>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>
